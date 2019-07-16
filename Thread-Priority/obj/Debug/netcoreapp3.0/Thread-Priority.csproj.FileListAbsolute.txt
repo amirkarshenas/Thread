@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\VSCode\Thread-Priority\bin\Debug\netcoreapp3.0\Thread-Priority.exe
+C:\Users\admin\Documents\VSCode\Thread-Priority\bin\Debug\netcoreapp3.0\Thread-Priority.deps.json
+C:\Users\admin\Documents\VSCode\Thread-Priority\bin\Debug\netcoreapp3.0\Thread-Priority.runtimeconfig.json
+C:\Users\admin\Documents\VSCode\Thread-Priority\bin\Debug\netcoreapp3.0\Thread-Priority.runtimeconfig.dev.json
+C:\Users\admin\Documents\VSCode\Thread-Priority\bin\Debug\netcoreapp3.0\Thread-Priority.dll
+C:\Users\admin\Documents\VSCode\Thread-Priority\bin\Debug\netcoreapp3.0\Thread-Priority.pdb
+C:\Users\admin\Documents\VSCode\Thread-Priority\obj\Debug\netcoreapp3.0\Thread-Priority.csprojAssemblyReference.cache
+C:\Users\admin\Documents\VSCode\Thread-Priority\obj\Debug\netcoreapp3.0\Thread-Priority.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\VSCode\Thread-Priority\obj\Debug\netcoreapp3.0\Thread-Priority.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\VSCode\Thread-Priority\obj\Debug\netcoreapp3.0\Thread-Priority.AssemblyInfo.cs
+C:\Users\admin\Documents\VSCode\Thread-Priority\obj\Debug\netcoreapp3.0\Thread-Priority.dll
+C:\Users\admin\Documents\VSCode\Thread-Priority\obj\Debug\netcoreapp3.0\Thread-Priority.pdb
